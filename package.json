@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/thinhit/my-arch-utils",
   "dependencies": {
-    "mail-listener": "^0.7.1"
+    "mail-listener": "^0.7.1",
+    "mail-notifier": "^0.2.3",
+    "underscore": "^1.7.0"
   }
 }
