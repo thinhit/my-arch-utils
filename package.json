@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thinhit/my-arch-utils/issues"
   },
-  "homepage": "https://github.com/thinhit/my-arch-utils"
+  "homepage": "https://github.com/thinhit/my-arch-utils",
+  "dependencies": {
+    "mail-listener": "^0.7.1"
+  }
 }
