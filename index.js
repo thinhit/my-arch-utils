@@ -12,8 +12,8 @@ var notify = function (msg){
 
 
 var imap = {
-  user: "thinhnv@vsoft.vn",
-  password: "*******",
+  user: process.env.MY_UTILS_GMAIL_USERNAME,
+  password: process.env.MY_UTILS_GMAIL_PWD,
   host: "imap.gmail.com",
   port: 993, // imap port
   tls: true,// use secure connection
